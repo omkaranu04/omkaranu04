@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/omkarvb_13?igsh=MTZxZm15M3lsNzl5OA==">
       <img src="https://skillicons.dev/icons?i=instagram" />  
   </a>
-  <a href="www.linkedin.com/in/omkarbhandare13">
+  <a href="https://www.linkedin.com/in/omkarbhandare13/">
       <img src="https://skillicons.dev/icons?i=linkedin" />  
   </a>
 </p>
