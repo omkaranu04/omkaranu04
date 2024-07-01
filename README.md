@@ -1,7 +1,7 @@
 <h1 align="left">Hey Folks, I'm Omkar Bhandare</h1>
 <h3 align="left">An Enthusiast Learner</h3>
 
-- 🎓 Second Year Undergraduate Student at Indian Institute of Technology Kharagpur
+- 🎓 Third Year Undergraduate Student at Indian Institute of Technology Kharagpur
 - 📫 Want to reach me?  Well **omkaranu04@gmail.com** is my Email ID.
 
 <h3 align="left">Connect With Me :</h3>
