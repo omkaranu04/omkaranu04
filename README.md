@@ -17,7 +17,7 @@
 <h3 align="left">Languages And Tools :</h3>
 <p>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,bash,express,mongodb,nodejs,postman,git,github,vscode" />  
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,bash,express,mongodb,nodejs,postman,git,github,vscode,flask" />  
   </a>
 </p>
 
