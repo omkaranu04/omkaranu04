@@ -2,23 +2,22 @@
 <h3 align="left">An Enthusiast Learner</h3>
 
 - 🎓 Third Year Undergraduate Student at Indian Institute of Technology Kharagpur
-- 📫 Want to reach me?  Well **omkaranu04@gmail.com** is my Email ID.
-
-<h3 align="left">Connect With Me :</h3>
+- 📫 Want to reach me?  Well, **omkaranu04@gmail.com** is my Email ID.
+- 🔗 You can view my LinkedIn [here](www.linkedin.com/in/omkarbhandare13)
+  
+<h3 align="left">Languages:</h3>
 <p>
-  <a href="https://www.instagram.com/omkarvb_13?igsh=MTZxZm15M3lsNzl5OA==">
-      <img src="https://skillicons.dev/icons?i=instagram" />  
-  </a>
-  <a href="https://www.linkedin.com/in/omkarbhandare13/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />  
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,css,html,bash" />  
   </a>
 </p>
 
-<h3 align="left">Languages And Tools :</h3>
+<h3 align="left">Tools and Libraries:</h3>
 <p>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,bash,express,mongodb,nodejs,postman,git,github,vscode,flask" />  
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,anaconda,express,nodejs,mongodb,postman,git,github,vscode" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="47vw"/> </a>
 </p>
 
 <div align="center">
