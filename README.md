@@ -1,6 +1,6 @@
 <h1 align="left">Hey Folks 👋 </h1>
 
-- 🎓 Third Year Undergraduate Student at Indian Institute of Technology Kharagpur
+- 🎓 Fourth Year Undergraduate Student at Indian Institute of Technology, Kharagpur
 - 📫 Want to reach me?  Well, **omkaranu04@gmail.com** is my Email ID.
 - 🔗 You can view my LinkedIn [here](www.linkedin.com/in/omkarbhandare13)
 
