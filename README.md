@@ -2,7 +2,7 @@
 
 - 🎓 Fourth Year Undergraduate Student at Indian Institute of Technology, Kharagpur
 - 📫 Want to reach me?  Well, **omkaranu04@gmail.com** is my Email ID.
-- 🔗 You can view my LinkedIn [here](https://www.linkedin.com/in/omkarbhandare13/)
+- 🔗 You can view my Profile Website [here](https://omkar-profile-website.vercel.app/)
 
   
 <h3 align="left">Languages:</h3>
